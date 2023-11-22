@@ -11,7 +11,7 @@ const exampleMessages = [
   },
   {
     heading: 'Sintomas da Dengue',
-    message: 'Quais são os sintomas da Dengu?'
+    message: 'Quais são os sintomas da Dengue?'
   },
   {
     heading: 'O que corresponde aos sintomas',
